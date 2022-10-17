@@ -1,16 +1,32 @@
-### Hello Everyone Welcome to Petri Home 👋
+Hello My Name is Petri.
+And I'm a Full Stack Developer and Blockchain Expert.
+I have worked for Full Stack Developer in Company over +7 years and  Blockchain developer over +5 years.
+I have rich experience for WebSite Design and Smart Contract.
+I'm used to get interesting of Client of clearly,precisely and fast Building.
+Following is my Service lists.
 
-<!--
-**petriyamamoto/petriyamamoto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+1.Full Stack Developer
+- Front end
+HTML,CSS,Bootstrap,Javascript,React,Redux,Meteor.js,Vue. js,Next.JS
+- Back end
+PHP,ASP,C#,Java,Node.JS,Express.js,Ruby,Rest,Go,SQL,MonogoDB,WordPress,Laravel,Angular JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+2.Blochain Developer
+- NFT Marketing & Strategic Manager
+- Solidity Developer
+- Full Stack Rust Engineer
+- Web3 Tech Lead
+- Director of Product Management
+- Blockchain Security Engineer
+
+3.Unity 3D and Mobile Developer
+- Unity 3D Engineer
+- SMTS(Neural 3D Graphics Software Engineer)
+- Motion Designer
+- Android and IOS app Development
+
+This is my Recent Projects.
+ 
+
+
