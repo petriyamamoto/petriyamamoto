@@ -1,4 +1,6 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+
+<img alt="React" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
 I'm Petri Yamamoto as a Full Stack Developer has 12+ years experience of Company Stuff.<br>
 I have worked in Github for 10 years and completed a lot of projects.<br>
 I have also Doctor Degree of Computer Vision and Computer Science.<br>
